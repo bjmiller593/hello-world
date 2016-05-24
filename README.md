@@ -1,2 +1,2 @@
-# hello-world
-just learning
+#ilike rscompoute
+just lee arning
